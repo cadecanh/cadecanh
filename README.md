@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cadecanh
 - 👀 I’m interested in coding and developing mobile application(IOS and Android)
-- 🌱 I’m currently learning "Web and Mobile Application Development"
+- 🌱 I’m currently working "Web and Mobile Application Development"
 - 💞️ I’m looking to collaborate on any project related logistic!
 - 📫 How to reach me 
 
