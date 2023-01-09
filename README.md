@@ -6,7 +6,7 @@
   Contact my email: cadecanh@gmail.com
   
 - 👀 Check out my project:
-+ https://hairbyky.netlify.app (IOS, Android, Web)
++ https://hairbyky.netlify.app (IOS App, Android App, Web) 
 + Coming...
 <!---
 cadecanh/cadecanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
